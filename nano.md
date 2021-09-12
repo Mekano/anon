@@ -9,3 +9,7 @@ https://rspcb.safety.fhwa.dot.gov/pageRedirect.aspx?RedirectedURL=https%3A%2F%2F
 https://sitereport.netcraft.com/?url=https%3A%2F%2Fwww.mekan0.com
 http://sc.sie.gov.hk/TuniS/mekan0.com
 http://www.webclap.com/php/jump.php?url=https%3A%2F%2Fwww.mekan0.com
+
+https://www.google.com/url?sa=j&url=https%3A%2F%2Fwww.mekan0.com%2F&uct=1618770740&usg=4t7EE7NgHLukFL8D8MpWRPy90zs
+
+https://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&url=https%3A%2F%2Fwww.mekan0.com%2F
